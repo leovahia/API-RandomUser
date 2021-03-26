@@ -4,7 +4,7 @@ faker.locale = 'pt_BR';
 
 const people = [];
 
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < 1; i++) {
         const person = {
             firstName: faker.name.firstName(),
             lastName: faker.name.lastName(),
@@ -17,6 +17,4 @@ const people = [];
         people.push(person)
     };
 
-/* console.log(people); */
-
-module.exports = people;
+console.log(people);
