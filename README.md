@@ -1,3 +1,3 @@
 # API-RandomUser
 
-APi utlizando nodejs, faker.js, express e ngrok.
+APi utlizando nodejs, express, faker.js e ngrok.
